@@ -25,7 +25,7 @@ const CardBody = () => {
             </div>
             <div className="item-description">
             <a href="mailto:kedarnathfillingstation@gmail.com"><h3>kedarnathfillingstation@gmail.com</h3>
-                <p>Email</p>
+                <p>Email</p></a>
             </div>
         </div>
 
