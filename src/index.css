@@ -46,8 +46,8 @@ a{
 
 #loader > img{
   display: block;
-  height: 120px;
-  width: 120px;
+  height: 150px;
+  width: 150px;
   animation: fadeInEnlarge 2s forwards linear;
 }
 
